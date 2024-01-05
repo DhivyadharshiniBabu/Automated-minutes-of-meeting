@@ -6,7 +6,7 @@
 * The obtained text was summarized using **Extractive and Abstractive methods** of text summarization
 * In Extractive method,**Sentence scoring** technique was used for obtaining the summary.
 * Whereas, in Abstractive method the summary is obtained through the **T5 Transformer model**.
-<img width="200" alt="63bd8a1f20da862484184fdb_blog extractive " src="https://github.com/DhivyadharshiniBabu/Automated-minutes-of-meeting/assets/121101960/7c685a90-dd67-4d54-b949-b1b4f869c44b">
+<img width="400" alt="63bd8a1f20da862484184fdb_blog extractive " src="https://github.com/DhivyadharshiniBabu/Automated-minutes-of-meeting/assets/121101960/7c685a90-dd67-4d54-b949-b1b4f869c44b">
 
 
 ## Dataset used :
