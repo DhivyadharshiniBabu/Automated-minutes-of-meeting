@@ -6,7 +6,7 @@
 * The obtained text was summarized using **Extractive and Abstractive methods** of text summarization
 * In Extractive method,**Sentence scoring** technique was used for obtaining the summary.
 * Whereas, in Abstractive method the summary is obtained through the **T5 Transformer model**.
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fr.freelancer.com%2Fu%2Farunaddagatla%2Fportfolio%2Fabstractive-text-summarization-10585568&psig=AOvVaw2HwiFyf-dYtIvdRTtyAxKD&ust=1704521746833000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj-5LzMxYMDFQAAAAAdAAAAABAR)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abstractivehealth.com%2Fextractive-vs-abstractive-summarization-in-healthcare&psig=AOvVaw2OS0rbd4iW6UBlI1PG0s6j&ust=1704521571772000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDb-ZjOxYMDFQAAAAAdAAAAABAD)
 
 ## Dataset used :
 * The **XSum Dataset** has been used in the training phase of the T5 model.
